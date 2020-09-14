@@ -9,6 +9,3 @@
   
   # What it is
    Just gives you random quotes from an API.
-   
-   <img src="https://prnt.sc/uham4u" width="300"/> 
-   
