@@ -10,5 +10,5 @@
   # What it is
    Just gives you random quotes from an API.
    
-   https://prnt.sc/uhajbq
+   ![](https://prnt.sc/uhajbq)
    
