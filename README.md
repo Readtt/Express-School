@@ -10,5 +10,8 @@
   # What it is
    Just gives you random quotes from an API.
    
-   ![](https://prnt.sc/uhajbq)
+   <p align="center">
+  <img src="https://prnt.sc/uhajbq" width="350" title="hover text">
+  <img src="https://prnt.sc/uhajbq" width="350" alt="accessibility text">
+</p>
    
