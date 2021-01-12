@@ -1,5 +1,5 @@
 {
-  "name": "school-stuff",
+  "name": "express-school",
   "version": "1.0.0",
   "description": "Surprise Box",
   "main": "server.js",
